@@ -1,4 +1,4 @@
-||[**![image](https://github.com/user-attachments/assets/e4be5d5d-6220-4069-a440-65c581247dd4)**](https://apkitech.com/flixfox/)  |
+| ![FlixFox-Logo](https://github.com/user-attachments/assets/27007dfd-0b3d-455e-af36-7dad40e87ba9) |[**![image](https://github.com/user-attachments/assets/e4be5d5d-6220-4069-a440-65c581247dd4)**](https://apkitech.com/flixfox/)  |
 |:-------------------------------------------------:|-----------------------|
 | **Platform**: Android 5.0+                       | **Version**: 1.9.6      |
 | **Size**: 11.18 MB                                  | ⭐⭐⭐⭐⭐ (5/5) |
